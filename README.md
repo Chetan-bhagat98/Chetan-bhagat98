@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chetan-bhagat98.github.io/](https://chetan-bhagat98.github.io/)
 
-- 📝 I regularly post vedio on [https://www.youtube.com/@UpSkills776](https://www.youtube.com/@UpSkills776)
+<!-- - 📝 I regularly post vedio on [https://www.youtube.com/@UpSkills776](https://www.youtube.com/@UpSkills776) -->
 
 - 💬 Ask me about **node js,express,mongo db.**
 
